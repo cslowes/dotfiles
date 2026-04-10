@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/ewol/dotfiles/wallpaper.jpg' 
