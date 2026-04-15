@@ -202,7 +202,9 @@ bindsym $mod+r mode "resize"
 # }
 
 # Set border styling
-default_border none
+default_border pixel 2
 
 # Gaps
 gaps inner 6px
+
+client.focused #7d7652 #7d7652 #7d7652 #7d7652 #7d7652
