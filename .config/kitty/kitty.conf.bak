@@ -3149,3 +3149,25 @@
 #: }}}
 
 #: }}}
+
+
+# BEGIN_KITTY_FONTS
+font_family      family="Hack"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
+
+# Cursor settings
+cursor_shape beam
+cursor_shape_unfocused beam
+
+# Bell settings
+enable_audio_bell no
+
+# Window settings
+window_padding_width 8
+
+# Colour scheme
+background #1c1c1c
+background_opacity 0.85
