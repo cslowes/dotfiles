@@ -207,4 +207,4 @@ default_border pixel 2
 # Gaps
 gaps inner 6px
 
-client.focused #e9dcbb #e49cbb #e9dcbb #e9dcbb #e9dcbb
+client.focused #ebdbb2 #ebdbb2 #ebdbb2 #ebdbb2 #ebdbb2
