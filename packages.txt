@@ -24,3 +24,6 @@ lightdm
 lightdm-gtk-greeter
 light-locker
 redshift
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
