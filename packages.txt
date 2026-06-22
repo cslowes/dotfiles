@@ -21,9 +21,10 @@ pulseaudio-equalizer
 pulseaudio-jack
 kmix
 lightdm
-lightdm-gtk-greeter
+lightdm-slick-greeter
 light-locker
 redshift
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+brightnessctl
