@@ -210,4 +210,11 @@ default_border pixel 2
 # Gaps
 gaps inner 6px
 
+# Set border colour for active window
 client.focused #ebdbb2 #ebdbb2 #ebdbb2 #ebdbb2 #ebdbb2
+
+# Bind keys for brightness control (SL3 Specific)
+bindsym XF86MonBrightnessDown exec brightnessctl s 10%-
+bindsym XF86MonBrightnessUp exec brightnessctl s +10%
+
+
