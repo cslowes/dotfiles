@@ -10,4 +10,4 @@ alias grep='grep --color=auto'
 alias journal='python3 code/journal/app.py'
 PS1='\W \\$ '
 
-export PATH=$PATH:/home/ewol/.spicetifya
+export PATH=$PATH:/home/ewol/.spicetify
